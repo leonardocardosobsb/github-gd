@@ -1,3 +1,3 @@
 Este é um teste Git e Github.
 
-Estamos no nono vídeo.
+Estamos no nono vídeo. E evoluímos esta mensagem para testar algumas funcionalidades do git.
