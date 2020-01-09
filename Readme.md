@@ -4,3 +4,6 @@ Estamos no nono vídeo. E evoluímos esta mensagem para testar algumas funcional
 
 
 Meu email para contato é leonardo.cs.bsb@gmail.com
+
+
+Agora sim, deu tudo certo para mandar este arquivo para o Github.
